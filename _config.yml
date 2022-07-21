@@ -2,4 +2,4 @@ title: Just the Docs
 description: A Jekyll theme for documentation
 baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://just-the-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-remote_theme: owner/name
+remote_theme: just-the-docs/just-the-docs
